@@ -10,6 +10,7 @@ module.exports = {
                 'green-primary': '#26BBA4',
                 'blue-primary': '#6174FF',
                 'light-grey': 'rgba(158,171,178,0.1)',
+                'desc-gray' : '#9EABB2'
 
             },
             boxShadow: {
